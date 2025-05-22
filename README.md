@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Mahdy [@MhMahdi94]
-- 👀 I’m interested in developing mobile apps in flutter, web applications using react js.
-- 🌱 I’m Flutter Developer, React Developer 
+- 👀 I’m interested in developing mobile apps in flutter, web applications using HTML,CSS,JS And Blade , WEB API Using PHP and Laravel.
+- 🌱 I’m Flutter Developer, PHP/Laravel Developer.  
 - 💞️ I’m looking to collaborate on mobile and web apps development
 - 📫 How to reach me: 
   . email: mohdmahdy94@gmail.com
